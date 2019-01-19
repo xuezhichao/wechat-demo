@@ -1,0 +1,8 @@
+<view class="page">
+  <view class="page__bd">
+      <view class="me">{{text}}</view>
+      <view class="me_ctn">
+        <image style="width: 200px; height: 200px; background-color: #eeeeee;" mode="{{mode}}" src="{{src}}"></image>
+      </view>
+  </view>
+</view>

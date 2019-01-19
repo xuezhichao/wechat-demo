@@ -1,0 +1,9 @@
+.me{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.me_ctn{
+    text-align: center;
+    margin-top: 10px;
+}
